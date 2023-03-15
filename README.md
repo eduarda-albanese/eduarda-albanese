@@ -14,7 +14,4 @@
  
  <br>
  
-<div>  
-  ![Snake animation](https://github.com/eduarda/eduarda/blob/output/github-contribution-grid-snake.svg)
 
-</div>
