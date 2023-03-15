@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da eduarda! 😁
+## Bem-vindo(a) ao perfil da eduarda! 
 
  <div>
    <a href="https://github.com/eduarda-albanese">
